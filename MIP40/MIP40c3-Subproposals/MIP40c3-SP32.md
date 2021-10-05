@@ -7,7 +7,7 @@ MIP40c3-SP#: 32
 Author(s): @colrad, @urbanisierung, Tim Schuppener (@ultraschuppi)
 Contributors:
 Tags: core-unit, cu-skunk-001, budget, dai-budget, mkr-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-09-01
 Date Ratified: <yyyy-mm-dd>
 ```

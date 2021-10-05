@@ -7,7 +7,7 @@ MIP40c3-SP#: 37
 Author(s): @Nadia
 Contributors:
 Tags: core-unit, cu-gro-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-09-08
 Date Ratified: N/A
 ```
