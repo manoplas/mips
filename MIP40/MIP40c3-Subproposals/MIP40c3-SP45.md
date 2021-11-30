@@ -1,4 +1,4 @@
-# MIP40c3: Modify Maker Talent Core Unit Budget (Subpropossal Process) Template
+# MIP40c3-SP45: Modify Core Unit Budget - Maker Talent (MT-001)
 
 ## Preamble
 
@@ -20,15 +20,15 @@ MIP40c3-SP#1: adds the DAI budget for the Core Unit MT-001: Maker Talent
 
 The Maker Talent CU budget is designed with the following goals in mind:
 
-- Paying the DAI compensation to core unit members 
-- Sponsoring events where Maker Talent will meet potential candidates and connect with its community
-- Paying a part of the referral bonus as an incentive (see MIP39 for details).
-- Paying the operational costs of the CU (e.g candidates management software, gas fees and job-ads)
-- Keeping reasonable buffer for unexpected expenses (legal, financial and other)
+- Paying the DAI compensation to Core Unit members
+- Sponsoring events where Maker Talent will meet potential candidates
+- Paying a part of the referral bonus as an incentive
+- Paying the operational costs of the CU (e.g candidates management software, gas fees and job advertisements)
+- Keeping a reasonable buffer for unexpected expenses (legal, financial and other)
 
 Therefore, a vote to ratify this MIP means MKR holders will commit to:
 
-- Funding a 3 month runway for MT-001
+- Funding a 3-month runway for MT-001
 - Replenish the budget on a quarterly basis
 - Include members of the Core Unit in the SES MKR Incentive Plan
 
@@ -36,11 +36,7 @@ Therefore, a vote to ratify this MIP means MKR holders will commit to:
 
 ### Motivation
 
-This Core Unit will attract, connect and recruit the best talent for other Core Units as well as commercial entities related to MakerDAO. This is summarized but not limited to:
-
-    1. Recruit best-in-class talent for the Maker Protocol
-    2. Connect with the community in small and big events.
-    3. Guarantee an amazing candidate experience so Maker is recognized as an amazing place.
+Going by the critical nature of the work done by the Maker Talent Core Unit, sufficient funds need to be provisioned in order to guarantee the success of the Maker ecosystem in the long run.
 
 ### Core Unit ID
 
@@ -48,41 +44,15 @@ This Core Unit will attract, connect and recruit the best talent for other Core 
 
 ### List of Budget Implementations
 
-Nearly 30% of this budget is represented by variable expenses that are impacted by the high demand of profiles (i.e. the more opennings we have, the more budget we will spend in posting offers, expanding our team of recruiters or even paying more referral bonuses).
-
-#### DAI Contribution
-
-Represents de the contributions to the members of the Core Unit. 
-
-#### Events
-
-Maker Talent is planning to acquire sponsor tickets for 3 major events and 3 minor events per year. 
-
-#### Job offers
-
-This includes posting job-offers across important blockchain publications and sites.
-
-#### Providers
-
-This section includes occassional lawyer services (i.e. GDPR management), a co-working space and accountable services, among others.
-
-#### Software
-
-Includes an ATS subscription (applicant tracking system), a subscription fee to the Linkedin Search Engine, G-Suite, Notion wiki and hosting, among others.
-
-#### Others
-
-Includes a welcome pack for new joiners, gas fees and a contribution to the referral bonuses paid.
-
-### Budget Breakdown
+Nearly 30% of this budget is allocated to variable expenses that are impacted by the demand of profiles (i.e. the more openings we have, the more budget we will spend in posting offers, expanding our team of recruiters or even paying more referral bonuses).
 
 On quarterly basis, the budget is composed of:
 
 Budgeted Item | Amount Requested (DAI)
 ------------ | -------------
-Maker Contribution | 103,625.11 
-Subtotal Events | 64,481.50 
-Job Offers and Posting Job ads | 5,365.00 
+DAI Contribution | 103,625.11 
+Events | 64,481.50 
+Job Offers | 5,365.00 
 Recruitment Providers | 4,379.00 
 Software Licenses | 9,820.56 
 Others (i.e. gas fees) | 19,592.40 
@@ -90,11 +60,29 @@ Subtotal Without Buffer | 207,263.57
 Buffer 15% | 31,089.54 
 **TOTAL**| **238,353.10** 
 
-TO BE MODIFIED:
+### Budget Breakdown
 
-| MIP Editor | Discord | Forum |
-|-|-|-|
-| **Manomad** | manomad#0321| [@manomad](https://forum.makerdao.com/u/manomad/summary) |
-| **Andy** | Andy__#5763 | [@synesthesia](https://forum.makerdao.com/u/synesthesia/summary) |
+#### DAI Contribution
 
-* [MakerDAO MIPs Forum](https://forum.makerdao.com/c/mips/14)
+Represents de the contributions to the members of the Core Unit. At full capacity, this Core Unit will have 4 FTEs and 2 external contractors.
+
+#### Events
+
+Maker Talent is planning to acquire sponsor tickets for a minimum of 3 major events and 3 minor events per year. 
+
+#### Job offers
+
+This includes posting job offers across important blockchain publications and sites.
+
+#### Recruitment Providers
+
+This section includes occassional lawyer services (i.e. GDPR management), a co-working space and accountable services, among others.
+
+#### Software Licenses
+
+Includes an ATS subscription (applicant tracking system), a subscription fee to the Linkedin Search Engine, G-Suite, Notion wiki and hosting, among others.
+
+#### Others (i.e. gas fees)
+
+Includes a welcome pack for new joiners, gas fees and a contribution to the referral bonuses paid.
+
