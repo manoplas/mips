@@ -144,4 +144,7 @@ A usual metric for recruitment agencies in the centralised world is the moment o
 
 Creating a scalable and efficient recruitment machine for Maker might sometimes require the employment of recruitment agencies, but we will try to avoid it as much as possible for cost and quality reasons. Partnering with hiring managers with well-trained internal HR professionals is key to achieve this. The more engaged we keep our community with Maker's vision and projects, the less help we will need from externals.
 
+### Coming soon...
+
+Recruitment is an urgent need in MakerDAO, but there are other requirements that also deserve an action plan from Maker Talent. Although currently I am restricted to recruitment, **as soon as we are fully operational we will expand Maker Talent Core Unit into other areas** impacting onboarding experience, training, contributor experience, retention, perks and benefits and many more.
 
