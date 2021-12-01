@@ -30,7 +30,7 @@ Therefore, a vote to ratify this MIP means MKR holders will commit to:
 
 - Funding a 3-month runway for MT-001
 - Replenish the budget on a quarterly basis
-- Include members of the Core Unit in the SES MKR Incentive Plan
+- Include members of the Core Unit in the SES MKR Incentive Plan. For more details see **MIP40c3: Modify Core Unit Budget (MKR) - Maker Talent (MT-001).**
 
 ## Specification
 
@@ -85,4 +85,5 @@ Includes an ATS subscription (applicant tracking system), a subscription fee to 
 #### Others (i.e. gas fees)
 
 Includes a welcome pack for new joiners, gas fees and a contribution to the referral bonuses paid.
+
 
