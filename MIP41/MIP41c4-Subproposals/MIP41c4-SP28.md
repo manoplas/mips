@@ -55,15 +55,15 @@ Leading this Core Unit will also mean contributing to the co-creation of how DAO
 
 I feel honoured of belonging to the small bunch of people that believe that Blockchain can change the whole world we are living in.
 
-Currently I am restricted to recruitment but **in the future I am planning to expand Maker Talent Core Unit into other areas** impacting onboarding, training, contributor experience, retention and many more.
+As I said in MIP39, currently I am restricted to recruitment but **in the future I am planning to expand Maker Talent Core Unit into other areas** impacting onboarding, training, contributor experience, retention and many more.
 
 ### Facilitator Commitment
 
-As a facilitator, a key factor to success consists of **understanding Core Unit's needs**. Hence, my first commitment is to proof that **partnering** with Maker Talent will upgrade recruitment to a high-tech, easy-to-deal and efficient experience.
+As a facilitator, a key factor to success consists of **understanding the Core Unit's needs**. Hence, my first commitment is to prove that **partnering** with Maker Talent will upgrade recruitment to a high-tech, easy-to-deal and efficient experience.
 
 Within the Core Unit, my second commitment is **due diligence** and to be always in search of continuous growth through constructive criticism, taking into account different perspectives and judgments.
 
-My third commitment is to **guarantee a clear and transparent communication** with the DAO, promoting clearness and honesty, towards candidates, the protocol and between Core Units.
+My third commitment is to **guarantee a clear and transparent communication** with the broader DAO, promoting clearness and honesty, towards candidates, the protocol and between Core Units.
 
-Finally, Maker Talent and myself are comited to **healthy relations and fairness among Core Units Memebers**.
+Finally, Maker Talent and myself are commited to **healthy relations and fairness among Core Units Members**.
 
