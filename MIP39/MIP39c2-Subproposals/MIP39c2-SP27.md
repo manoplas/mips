@@ -7,7 +7,7 @@ MIP39c2-SP#: 27
 Author(s): @manomad_ 
 Contributors: @synesthesia
 Tags: core-unit, makertalent, mip39
-Status: Request for Comments
+Status: Request For Comments
 Date Applied: <2021-12-08>
 Date Ratified: <yyyy-mm-dd>
 ```
