@@ -67,7 +67,7 @@ Our primary strategy consists of four pillars that break down Maker Talent's mis
 3.  Utilize Social Recruiting as a main recruitment strategy;
 4.  Provide an outstanding candidate experience
 
-![Maker Talent Strategy Visualisation](https://github.com/manoplas/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP27/mt_strategy.png?raw=true)
+![Maker Talent Strategy Visualisation](https://github.com/manoplas/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP27/mt_strategy2.png?raw=true)
 
 Let's dive a bit deeper into the strategies mentioned. Here is how we are going to make these actionable. These activities are showing a strategy that has already been put in place since the incubation program started (and we recruited 9 professionals). We are now working on another 8-10 openings for 2022.
 
@@ -82,6 +82,14 @@ The hiring market is a double-sided market. Providing great candidate experience
 * Provide continuous insights about market status and candidate's funnel.
 * Create an easy-to-follow, automated, online registration process to request new hires.
 
+### Find the best talent from across the blockchain world
+
+* Invest in apps and tools to reach the best developers within their communities.
+* Attract top candidates by creating a process that is fun, insightful and enriching.
+* Train recruiters so they can acquire the needed expertise in terms of social recruiting, sourcing and MakerDAO business domain. 
+* Create a clear and easy process for candidates to apply for future opportunities: backed up by a team focused on nurturing our talent pool, doing proactive interviews and assisting to fairs and blockchain events.
+* Keep in touch and interact with our existing database of professionals so we can get the most out our existing database.
+
 ### Utilize Social Recruiting as main recruitment strategy
 
 Blockchain talent - experts and developers alike are often prominent within social networks both on and offline. We must be sure to seek them out through both inbound and outbound strategies. 
@@ -92,7 +100,7 @@ Blockchain talent - experts and developers alike are often prominent within soci
 * Deliver workshops and keynotes on a range of hiring and retention topics.
 * Sponsor and attend industry events attracting young yet undiscovered talents
 
-### Provide amazing candidate experience
+### Provide an outstanding candidate experience
 
 As talent is scarsce within the crypto space, we need to make sure we provide an experience that is both fair, involving and transparent to the potential candidate. Regardless of final decision, candidates should regard time spent in recruitment process as valuable, contributing to their individual growth. 
 
@@ -104,14 +112,6 @@ As talent is scarsce within the crypto space, we need to make sure we provide an
 * Constantly improve performance of recruiters, hiring managers and everyone involved in the process by sharing qualitative feedback and KPIs from candidate surveys.
 * Make sure that effective and personalised feedback is sent to all rejected candidates.
 * Assist and guide interviewers at all times so they can be better prepared when facing interviews.
-
-### Find the best talent in the blockchain world
-
-* Invest in apps and tools to reach the best developers within their communities.
-* Attract top candidates by creating a process that is fun, insightful and enriching.
-* Train recruiters so they can acquire the needed expertise in terms of social recruiting, sourcing and MakerDAO business domain. 
-* Create a clear and easy process for candidates to apply for future opportunities: backed up by a team focused on nurturing our talent pool, doing proactive interviews and assisting to fairs and blockchain events.
-* Keep in touch and interact with our existing database of professionals so we can get the most out our existing database.
 
 ## Challenges we will face
 Let's consider a few real-world scenarios that can most likely pose a challenge for our endeavors and as such needs to be quickly mitigated.
