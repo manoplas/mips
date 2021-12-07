@@ -35,35 +35,33 @@ Linkedin: https://www.linkedin.com/in/mvbdigitalrecruiter/
 
 ### Professional background
 
-The focus of my career have always been fast growing European tech startups going through series seed to A, and where the challenge was creating the Human Resources department from scratch. 
+The focus of my career has always been on fast growing European tech startups going through series seed to A, where the challenge has been creating the Human Resources department from scratch. 
 
-At these international and multicultural startups, the core business was always a high-tech product with a short time to market. 
+At these international and multicultural startups, the core business has always been a high-tech product with a short time to market. 
 
-This fast-speed-growing environments many times involved increasing the staff from 0 to 120 people in less than a year and managing a group of 2-3 recruiters plus externals.
+This fast-growing environments frequently involved increasing the staff from 0 to 120 people in less than a year and managing a group of 2-3 recruiters plus externals.
 
-Typical profiles I'm used to interview include Tech Engineers, Product Managers, Data Analysts, CTOs, Finance and Legal Advisors, among others.
+I am accustumed to interviewing such type as Tech Engineers, Product Managers, Data Analysts, CTOs, Finance and Legal Advisors, among others.
 
-Specifically during the last 5 years, I developed myself as a Freelance Tech Recruiter for the European tech startup niche. As a side job I did Career Transition Coaching and voluntered in an NGOs as a Clinical Psychologist.
+Specifically during the last 5 years, I developed myself as a Freelance Tech Recruiter for the European tech startup niche. Alongside this, I have carried out Career Transition Coaching and volunteered in an NGOs as a Clinical Psychologist.
 
-By working closely with Tech people, I developed life-changing learnings like the importance of returning value or sharing knowledge to the community you belong to, the power of decentralized systems and the way Blockchain can represent a significant change in how we make decisions or rethink the economy. I have been passionately courious about Blockchain projects since 2018. Nothing indicates that I will ever stop.
+By working closely with people from all areas of the Tech sphere, I have embarked on life-changing "learnings" like the importance of returning value or sharing knowledge with the community you belong to, the power of dezentralized systems and the way Blockchain can represent a significant change in how we make decisions or even rethink the economy. I have adopted a passionate curiority for Blockchain projects since 2018. Nothing indicates that I will ever stop.
 
 ### Motivation
 
-Being the facilitator of Maker Talent is the consequence of all the roles I have been through, from clinical Psychologist and Coach to Talent Manager or Recruiter in Techs and Startups.
+My position as a facilitator of Maker Talent comes about as the consequence of all the roles I have been through, from clinical Psychologist and Coach to Talent Manager and Recruiter in Tech Startups and Startups.
 
 Leading this Core Unit will also mean contributing to the co-creation of how DAOs will manage talent pools and interact with them in a very-near future.
 
-I feel honoured of belonging to the small bunch of people that believe that Blockchain can change the whole world we are living in.
+I feel honoured of belong to the small bunch of people that believe that Blockchain can change the entire world we are living in.
 
-As I said in MIP39, currently I am restricted to recruitment but **in the future I am planning to expand Maker Talent Core Unit into other areas** impacting onboarding, training, contributor experience, retention and many more.
+As I have mentioned in MIP39, I am currently limiting Maker Talent to recruitment exclusively, however, **in the future, I am planning to expand into other areas** impacting onboarding, training, contributor experience, retention and many more.
 
 ### Facilitator Commitment
 
-As a facilitator, a key factor to success consists of **understanding the Core Unit's needs**. Hence, my first commitment is to prove that **partnering** with Maker Talent will upgrade recruitment to a high-tech, easy-to-deal and efficient experience.
+As a facilitator, a key factor to success consists of **understanding customer needs.** Hence, my first commitment is to demonstrate that partnering Maker Talent will provide a high-tech, user friendly and efficient experience for both Core Units and candidates.
 
-Within the Core Unit, my second commitment is **due diligence** and to be always in search of continuous growth through constructive criticism, taking into account different perspectives and judgments.
+I constantly seek continuous growth through constructive criticism, taking into account different perspectives and percepcions. Hence, within Maker Talent, my second commitment is **transparency** towards colleagues, candidates, other Core Units and the entire community. 
 
-My third commitment is to **guarantee a clear and transparent communication** with the broader DAO, promoting clearness and honesty, towards candidates, the protocol and between Core Units.
-
-Finally, Maker Talent and myself are commited to **healthy relations and fairness among Core Units Members**.
+Both Maker Talent and I, myself, are commited to **healthy relations and fairness within our own and towards other Core Units.**
 
