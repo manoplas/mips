@@ -4,10 +4,10 @@
 
 ```
 MIP40c3-SP#: 45
-Author(s): @manomad_ @synesthesia
-Contributors: @manomad_ @synesthesia @wouter @juanjuan
+Author(s): @manomad_ 
+Contributors: @synesthesia
 Tags: core-unit, budget, dai-budget, makertalent
-Status: Formal Submission
+Status: Request for Comments
 Date Applied: <2021-12-08>
 Date Ratified: <yyyy-mm-dd>
 ```
@@ -50,21 +50,21 @@ On a quarterly basis, the budget is composed of:
 
 Budgeted Item | Amount Requested (DAI)
 ------------ | -------------
-DAI Contribution | 103,625.11 
+DAI Compensation | 103,625.11 
 Events | 64,481.50 
 Job Offers | 5,365.00 
 Recruitment Providers | 4,379.00 
 Software Licenses | 9,820.56 
-Others (i.e. gas fees) | 19,592.40 
-Subtotal Without Buffer | 207,263.57 
+Others (i.g., gas fees) | 19,592.40 
+**Subtotal Without Buffer** | **207,263.57**
 Buffer 15% | 31,089.54 
-**TOTAL**| **238,353.10** 
+****GRAND TOTAL****| ****238,353.10****
 
 ### Budget Breakdown
 
-#### DAI Contribution
+#### DAI Compensation
 
-Represents the contributions made to the members of the Core Unit. At full capacity, this Core Unit will have 4 FTEs and 2 external contractors.
+Represents the compensation made to the members of the Core Unit. At full capacity, this Core Unit will have 4 FTEs and 2 external contractors. 
 
 #### Events
 
@@ -72,18 +72,21 @@ Maker Talent is planning to acquire sponsor tickets for a minimum of three major
 
 #### Job offers
 
-This includes posting job offers across important blockchain publications and sites.
+This includes posting job offers across important Blockchain publications and sites.
 
 #### Recruitment Providers
 
-This section includes occassional lawyer services (i.g., GDPR management), a co-working space, and accountable services, among others.
+This section includes occassional lawyer services (i.g., GDPR management), a co-working space, and payment processing services, among others.
 
 #### Software Licenses
 
-Includes an ATS subscription (applicant tracking system), a subscription fee to the Linkedin Search Engine, G-Suite, Notion wiki and hosting, among others.
+Includes an ATS subscription (Applicant Tracking System), a subscription fee to the Linkedin Search Engine, G-Suite, Notion Wiki and hosting, among others.
 
-#### Others (i.e. gas fees)
+#### Others (i.e., gas fees)
 
-Includes a welcome pack for new joiners, gas fees and a contribution to the referral bonuses paid.
+Includes a welcome pack for new joiners, gas fees, and a contribution to the referral bonuses paid.
 
+### Budget Implementation
+
+The budget implementation will involve the standard SES-recommended setup with an auditor wallet. This will be added to the proposal ASAP.
 
