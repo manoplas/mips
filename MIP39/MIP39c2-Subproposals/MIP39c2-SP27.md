@@ -67,7 +67,7 @@ Our primary strategy consists of four pillars that break down Maker Talent's mis
 3.  Utilize Social Recruiting as a main recruitment strategy;
 4.  Provide an outstanding candidate experience
 
-![Maker Talent Strategy Visualisation](https://github.com/manoplas/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP27/mt_strategy2.png?raw=true)
+![Maker Talent Strategy Visualisation](https://github.com/manoplas/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP27/mt-strategy2.png?raw=true)
 
 Let's dive a bit deeper into the strategies mentioned. Here is how we are going to make these actionable. These activities are showing a strategy that has already been put in place since the incubation program started (and we recruited 9 professionals). We are now working on another 8-10 openings for 2022.
 
