@@ -4,10 +4,10 @@
 
 ```
 MIP41-SP#: 28
-Author(s): @manomad_ @synesthesia
-Contributors: @manomad_ @synesthesia @wouter @juanjuan
+Author(s): @manomad_ 
+Contributors: @synesthesia
 Tags: core-unit, makertalent, mip39
-Status: Formal Submission
+Status: Request For Comments
 Date Applied: <2021-12-08>
 Date Ratified: <yyyy-mm-dd>
 ```
