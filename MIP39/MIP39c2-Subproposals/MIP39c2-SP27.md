@@ -18,21 +18,21 @@ MIP39c2-SP27 adds Core Unit MT-001: Maker Talent.
 
 ## Paragraph Summary
 
-Maker Talent goal is focused on recruiting best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices and offering an amazing candidate experience. Maker Talent has been incubated by SES since September 2021.
+Maker Talent purpose and objective is to recruit best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices and offering an amazing candidate experience. Maker Talent has been incubated by SES since September 2021.
 
 ## Specification
 
 ### Motivation.
 
-#### The Problem.
+#### The Problem
 
-As MakerDAO and its Core Unit grow, the need of connecting with professionals in the Blockchain industry becomes a critical matter that requires both urgent attention and a long term strategy.
+As MakerDAO and its Core Unit grow, the need to connect with professionals in the Blockchain industry is becoming a critical matter and requires both urgent attention and a long term strategy.
 
-Until now, Core Units have been growing by employing their own resources and personal network to find required talent, but this strategy is limited as MakerDAO scales up. 
+Until now, Core Units have been growing by employing their own resources and personal network to locate the required talent. This strategy, however, is limited as MakerDAO scales up.
 
-By observing the upcoming challenges for Maker in growth and adoption, and the struggle for finding talent within such a small niche, the lack of a recruitment strategy can compromise the success of MakerDAO.
+Observing the upcoming challenges for Maker in growth and adoption - and the struggle to find talent within such a small niche - the lack of a recruitment strategy can compromise the success of MakerDAO.
 
-We believe that a long term solution to this problem will be developing and maintaining an active pool of blockchain professionals, that are enthusiastic about the Maker spirit and projects, so we can speed up and facilitate the process of onboarding them when needed.
+We believe that a long term solution to this problem is to be found in developing and maintaining an active pool of Blockchain professionals, who shall be enthusiastic about the Maker spirit and projects, so we may accelerate and facilitate their onboarding process when needed.
 
 ### Core Unit Name 
 
@@ -49,10 +49,10 @@ We believe that a long term solution to this problem will be developing and main
 ### Core Unit Mandate
 
 #### Mission
-Recruit best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices, offering amazing candidate experience while being a reliable partner for MakerDAO hiring needs.
+Recruit best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices, and offering an outstanding candidate experience while being a reliable partner for MakerDAO's hiring needs.
 
 #### Vision
-Thriving ecosystem of Maker Core Units and commercial projects integrating with it, fulfilling their recruitment needs through Maker Talent as one stop-shop for best talent in blockchain. Maker Talent sources and recruits for the Maker Community in an efficient and transparent way, while providing state-of-art candidate experience.
+Build a thriving ecosystem of Maker Core Units and integrated commercial projects, fulfilling their recruitment needs through Maker Talent as a one stop-shop for best talent in Blockchain. Maker Talent sources and recruits for the Maker Community in an efficient and transparent way, while providing state-of-art candidate experience.
 
 #### Our Values
 
@@ -60,36 +60,36 @@ Thriving ecosystem of Maker Core Units and commercial projects integrating with 
 
 ## Strategy
 
-Our primary strategy consists of four pillars that break down Maker Talent's mission into actionable early stage roadmaps. To grow as a reliable partner for Maker DAO hiring needs, we need to parallelize activities across these pillars. To reiterate, we must:
+Our primary strategy consists of four pillars that break down Maker Talent's mission into actionable, early-stage roadmaps. To grow as a reliable partner for Maker DAO hiring needs, we need to align and streamline activities across these four pillars. To put it into detail, we must:
 
-1.  Gain reliability from hiring partners within Maker DAO
-2.  Find the best talent across the blockchain world
-3.  Utilize Social Recruiting as main recruitment strategy
-4.  Provide amazing candidate experience
+1.  Ensure reliability from hiring partners within Maker DAO;
+2.  Find the best talent from across the blockchain world;
+3.  Utilize Social Recruiting as a main recruitment strategy;
+4.  Provide an outstanding candidate experience
 
 ![Maker Talent Strategy Visualisation](https://github.com/manoplas/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP27/mt_strategy.png?raw=true)
 
 Let's dive a bit deeper into the strategies mentioned. Here is how we are going to make these actionable. These activities are showing a strategy that has already been put in place since the incubation program started (and we recruited 9 professionals). We are now working on another 8-10 openings for 2022.
 
-### Gain reliability from hiring partners within Maker DAO
+### Ensure reliability from hiring partners within Maker DAO
 
-The hiring market is a double-sided market. Providing great candidate experience is just one side of a coin. The other side though, puts a requirement on us to be seen by the hiring parties (Core Unit Hiring Managers) as _the_  MakerDAO Hiring Agency. 
+The hiring market is a double-sided market. Providing great candidate experience is just one side of the coin. The other side, however, places a requirement on us to be seen by the hiring parties (Core Unit Hiring Managers) as _the_  MakerDAO Hiring Agency. 
 
-* Build a network of Subject Matter Experts to help filter and recruit best-in-class talent
-* Create a central hub for all MakerDAO's hiring needs, easily approachable by both hiring managers and candidates
-* Act as a partner that understands the Core Unit needs and roadmap
-* Deliver candidates that match requirements  within a reasonable timeframe
-* Provide continuous insights about market status and candidate's funnel
-* Create an easy-to-follow, automated and online registered process to request new hires
+* Build a network of Subject Matter Experts to help filter and recruit best-in-class talent.
+* Create a central hub for all MakerDAO's hiring needs, easily approachable by both hiring managers and candidates.
+* Act as a partner that understands the Core Unit needs and roadmap.
+* Deliver candidates that match requirements  within a reasonable timeframe.
+* Provide continuous insights about market status and candidate's funnel.
+* Create an easy-to-follow, automated, online registration process to request new hires.
 
 ### Utilize Social Recruiting as main recruitment strategy
 
-Blockchain talent - experts and developers alike are often prominent within social networks on and off-line. We need to make sure to seek them out with both inbound and outbound strategies. 
+Blockchain talent - experts and developers alike are often prominent within social networks both on and offline. We must be sure to seek them out through both inbound and outbound strategies. 
 
-* Set up easily identifiable branding for Maker Talent that promotes MakerDAO at the same time
-* Create recruiting strategies for Twitter, Github, Stack Overflow and others
-* Offer cristal clear and fair referral program to increase talent pull effect by MakerDAO itself
-* Deliver workshops and keynotes around a variety of hiring and retention topics
+* Set up easily identifiable branding for Maker Talent that at the same time promotes MakerDAO.
+* Develop recruiting strategies for Twitter, Github and Stack Overflow, among others.
+* Offer cristal-clear and fair referral programs to increase talent pull effect by MakerDAO itself.
+* Deliver workshops and keynotes on a range of hiring and retention topics.
 * Sponsor and attend industry events attracting young yet undiscovered talents
 
 ### Provide amazing candidate experience
@@ -142,9 +142,9 @@ A usual metric for recruitment agencies in the centralised world is the moment o
 
 ##### Answer
 
-Creating a scalable and efficient recruitment machine for Maker might sometimes require the employment of recruitment agencies, but we will try to avoid it as much as possible for cost and quality reasons. Partnering with hiring managers with well-trained internal HR professionals is key to achieve this. The more engaged we keep our community with Maker's vision and projects, the less help we will need from externals.
+Creating a scalable and efficient recruitment machine for Maker may sometimes require the employment of recruitment agencies, but we will try to avoid it as much as possible for cost and quality reasons. Partnering with hiring managers with well-trained internal HR professionals is key to achieve this. The more engaged we keep our community with Maker's vision and projects, the less help we will need from externals.
 
 ### Coming soon...
 
-Recruitment is an urgent need in MakerDAO, but there are other requirements that also deserve an action plan from Maker Talent. Although currently I am restricted to recruitment, **as soon as we are fully operational we will expand Maker Talent Core Unit into other areas** impacting onboarding experience, training, contributor experience, retention, perks and benefits and many more.
+Recruitment is an urgent need at MakerDAO. However there are other requirements that also deserve an action plan from Maker Talent. Despite my current limitation to recruitment, we will - as soon as we are fully operational - **expand Maker Talent Core Unit into other areas** impacting onboarding experience, training, contributor experience, retention, perks and benefits and many others.
 
