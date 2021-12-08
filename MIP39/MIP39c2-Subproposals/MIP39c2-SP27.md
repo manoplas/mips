@@ -1,4 +1,4 @@
-# MIP39c2: Adding Maker Talent Core Unit
+# MIP39c2-SPXX - Adding Maker Talent Core Unit
 
 ## Preamble
 
@@ -14,7 +14,7 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Sentence Summary
 
-MIP39c2-SP27 adds Core Unit MT-001: Maker Talent.
+MIP39c2-SPXX adds Core Unit MT-001: Maker Talent.
 
 ## Paragraph Summary
 
