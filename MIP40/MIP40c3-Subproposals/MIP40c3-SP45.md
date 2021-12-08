@@ -23,13 +23,13 @@ The Maker Talent CU budget is designed with the following goals in mind:
 - To pay the DAI compensation to Core Unit members;
 - To sponsor events where Maker Talent will meet potential candidates;
 - To pay a part of the referral bonus as an incentive;
-- To pay the operational costs of the CU (e.g candidates management software, gas fees and job advertisements);
+- To pay the operational costs of the CU (e.g candidates management software, gas fees and job advertisements) and
 - To mantain a reasonable buffer for unexpected expenses (legal, financial and other).
 
 Therefore, a vote to ratify this MIP means MKR holders will commit to:
 
 - Funding a 3-month runway for MT-001;
-- Replenish the budget on a quarterly basis;
+- Replenish the budget on a quarterly basis and;
 - Including members of the Core Unit in the SES MKR Incentive Plan. For more details see **MIP40c3: Modify Core Unit Budget (MKR) - Maker Talent (MT-001).**
 
 ## Specification
@@ -76,7 +76,7 @@ This includes posting job offers across important Blockchain publications and si
 
 #### Recruitment Providers
 
-This section includes occassional lawyer services (i.g., GDPR management), a co-working space, and payment processing services, among others.
+This section includes occassional lawyer services (e.g., GDPR management), a co-working space, and payment processing services, among others.
 
 #### Software Licenses
 
