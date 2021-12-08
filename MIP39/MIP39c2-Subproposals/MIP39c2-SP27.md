@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP39c2-SP#: 27
+MIP39c2-SP#: XX
 Author(s): @manomad_ 
 Contributors: @synesthesia
 Tags: core-unit, makertalent, mip39
@@ -72,7 +72,7 @@ Our primary strategy consists of four pillars that break down Maker Talent's mis
 
 Let's dive a bit deeper into the strategies mentioned. Here is how we apply them today, and how we will continue to make them actionable.
 
-### Ensure reliability as the hiring partner within MakerDAO.
+### Become a reliable hiring partner within MakerDAO
 
 The hiring market is a double-sided market. Providing a great candidate experience is just one side of the coin. The other side, however, places a requirement on us to be seen by the Core Unit Hiring Managers as _the_  MakerDAO Hiring Agency. 
 
@@ -83,7 +83,7 @@ The hiring market is a double-sided market. Providing a great candidate experien
 * Provide continuous insights about market status and candidate's funnel.
 * Create an easy-to-follow and automated registration process to request new hires.
 
-### Utilize Social Recruiting as a main recruitment strategy.
+### Utilize Social Recruiting as a main recruitment strategy
 
 Blockchain talent experts and developers alike are often prominent within social networks both on and offline. We must be sure to seek them out through both inbound and outbound strategies. 
 
@@ -94,14 +94,14 @@ Blockchain talent experts and developers alike are often prominent within social
 * Sponsor and attend industry events attracting young yet undiscovered talents.
 
 
-### Find the best talent from across the blockchain world.
+### Find the best talent from across the blockchain world
 
 * Invest in apps and tools to reach the best developers within their communities.
 * Attract top candidates by creating a process that is fun, insightful, and enriching.
 * Train recruiters so they can acquire the needed expertise in terms of social recruiting, sourcing, and the MakerDAO business domain. 
 * Create a clear and easy process for candidates to apply for future opportunities: backed up by a team focused on nurturing our talent pool, conducting proactive interviews, and attending fairs and blockchain events.
 
-### Provide an outstanding candidate experience.
+### Provide an outstanding candidate experience
 
 As talent is scarce within the crypto sphere, we need to ensure that we provide an experience that is fair, involving, and transparent to the potential candidate. Regardless of the final decision, candidates should regard time spent in the recruitment process as valuable, contributing to their individual growth.
 
