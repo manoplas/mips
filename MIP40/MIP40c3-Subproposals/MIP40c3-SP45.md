@@ -1,9 +1,9 @@
-# MIP40c3-SP45: Modify Core Unit Budget - Maker Talent (MT-001)
+# MIP40c3-SPXX: Modify Core Unit Budget - Maker Talent (MT-001)
 
 ## Preamble
 
 ```
-MIP40c3-SP#: 45
+MIP40c3-SP#: XX
 Author(s): @manomad_ 
 Contributors: @synesthesia
 Tags: core-unit, budget, dai-budget, makertalent
