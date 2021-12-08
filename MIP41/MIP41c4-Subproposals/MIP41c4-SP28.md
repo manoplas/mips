@@ -1,9 +1,9 @@
-# MIP41c4: Facilitator Onboarding for Maker Talent Core Unit
+# MIP41c4-SPXX: Facilitator Onboarding for Maker Talent Core Unit
 
 ## Preamble
 
 ```
-MIP41-SP#: 28
+MIP41-SP#: XX
 Author(s): @manomad_ 
 Contributors: @synesthesia
 Tags: core-unit, makertalent, mip39
@@ -14,11 +14,11 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Sentence Summary
 
-MIP41c4-SP28: Adds Maker Talent Core Unit Facilitator
+MIP41c4-SPXX: Adds Maker Talent Core Unit Facilitator
 
 ## Paragraph Summary
 
-MIP41-SP28: Add Core Unit Facilitator for Maker Talent MT-001, along with MIP 39 and MIP 40.
+MIP41-SPXX: Add Core Unit Facilitator for Maker Talent MT-001, along with MIP 39 and MIP 40.
 
 ## Specification
 
@@ -64,4 +64,6 @@ As a facilitator, a key factor to success consists of **understanding customer n
 I constantly seek continuous growth through constructive criticism, taking into account different perspectives and percepcions. Hence, within Maker Talent, my second commitment is to foster **transparency** towards colleagues, candidates, other Core Units, and the entire Community. 
 
 Both Maker Talent and I, personally, are commited to  **healthy relations and fairness within our own and towards other Core Units.**
+
+
 
