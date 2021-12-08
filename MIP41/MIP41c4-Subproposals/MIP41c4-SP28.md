@@ -35,11 +35,11 @@ Linkedin: https://www.linkedin.com/in/mvbdigitalrecruiter/
 
 ### Professional background
 
-The focus of my career has always been on fast growing European tech startups going through series seed to A, where the challenge has been creating the Human Resources department from scratch. 
+The focus of my career has always been on fast-growing European tech startups going through series seed to A, where the challenge has been creating the Human Resources department from scratch. 
 
 At these international and multicultural startups, the core business has always been a high-tech product with a short time to market. 
 
-This fast-growing environments frequently involved increasing the staff from 0 to 120 people in less than a year and managing a group of 2-3 recruiters plus externals.
+These fast-growing environments frequently involved increasing the staff from 0 to 120 people in less than a year and managing a group of 2-3 recruiters plus externals.
 
 I am accustumed to interviewing such type as Tech Engineers, Product Managers, Data Analysts, CTOs, Finance and Legal Advisors, among others.
 
@@ -49,13 +49,13 @@ By working closely with people from all areas of the Tech sphere, I have embarke
 
 ### Motivation
 
-My position as a facilitator of Maker Talent comes about as the consequence of all the roles I have been through, from clinical Psychologist and Coach to Talent Manager and Recruiter in Tech Startups and Startups.
+My position as a facilitator of Maker Talent comes about as the consequence of all the roles I have been taken on, from clinical Psychologist and Coach to Talent Manager and Recruiter in Tech Startups.
 
 Leading this Core Unit will also mean contributing to the co-creation of how DAOs will manage talent pools and interact with them in the very-near future.
 
 I feel honoured of belong to the small bunch of people that believe that Blockchain can change the entire world we are living in.
 
-As I have mentioned in MIP39, I am currently limiting Maker Talent to recruitment exclusively, however, **in the future, I am planning to expand into other areas** impacting onboarding, training, contributor experience, retention and many more.
+As I have mentioned in MIP39, I am currently limiting Maker Talent to recruitment exclusively, however, **in the future, I am planning to expand into other areas** impacting onboarding, training, contributor experience, retention, and many more.
 
 ### Facilitator Commitment
 
