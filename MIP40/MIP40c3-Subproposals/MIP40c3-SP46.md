@@ -1,5 +1,5 @@
 
-# MIP40c3-SPXX: Modify Core Unit Budget (MKR) - Maker Talent (MT-001).
+# MIP40c3-SPXX: Modify Core Unit Budget (MKR) - Maker Talent (MT-001)
 
 ## Preamble
 
